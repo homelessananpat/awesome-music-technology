@@ -39,7 +39,46 @@ update soon...
 *
 
 ## Jobs
-*
+* Front of House (FOH) engineer = live sound
+* Technician audio engineer = live sound
+* Monitor Engineer = live sound
+* System Engineer
+* Broadcast Audio Engineer
+* Playback Engineer
+* Recording engineer = studio
+* Tracking engineer = studio
+* Mix and Master engineer = studio
+* Audio editor / Dialogue Editor / Noise Reduction Specialist = slave editor maybe RX to clean noise
+* Automated Dialogue Replacement (ADR) = post-production process in filmmaking where actors re-record their dialogue in a controlled studio environment to replace or enhance audio originally captured on set.
+* Studio Maintenance Technician
+* Music Programmer
+* Artist manager = all rounder, talkative, does everything jingabell
+* Accounts Receivable (AR) = actually means a job that handles money coming into a company but for thai ppl it sometimes use as a synonym for Artist manager, talkative person that handles everything, producer or something like that.
+* Public Relations (PR) = manages a company/person's public image, social media.
+* Human Resources (HR) = handles employees, including hiring, payroll/benefits, policies, and workplace issues.
+* Foley Artist = physically performs and records custom sound effects to synchronize with on-screen actions in film.
+* Sound designer = creative and technical professional who creates/synthesise, manipulates, and curates the auditory elements of media to enhance storytelling, mood, and immersion.
+* Music producer
+* Flim scoring / composer
+* Boom Operator = boom mic guy
+* Game audio designer = use audio middleware (FMOD something like that)(bridge between game and audio engine to make it interactive) basically put audio inside the game.
+* Live coding musician
+* Audio Software Engineer / Programmer / Dev = make plugins, dsp software stuff JUCE and so on
+* DIY synth guy / hardware / transducers / mic / speakers
+* Creative coding artist
+* Audio science researcher / Computer Music Researcher = DSP, Math, FFT, filters, synthesis, sampling, acoustics, psychoacoustics, Pure Data, SuperCollider, etc.
+* Synth nerd = me
+* Patch designer = make synth presets haha
+* PCB designer
+* Acoustic Consultant / Acoustic designer / Sound Isolation Consultant / Acoustic Measurement Engineer / Immersive Audio Room Designer
+* Spatial Mixing Engineer
+* Audio Equipment Repair Technician
+* Electroacoustic Composer / Sound artist
+* Music Data Analyst
+* Broadcast / Radio / Podcast engineer
+* Music Technology Professor
+* Audio Sales Engineer = rich ass job commission ahahahhaah
+* Audio Visual Artist = make sounds go beep and boop, make visuals go veep and voop
 
 ## Art projects for funsies
 *
