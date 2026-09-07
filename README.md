@@ -1,6 +1,6 @@
 # awesome-music-technology
 
-Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design and more.
+Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design, audio visual art, art installation, avant garde experimental sound/visual, glitch art, internet art and more.
 
 ## why tho?
 
@@ -30,9 +30,7 @@ update soon...
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
 
-## Notes and yap aka everything you should know pls read and rememba
-
-## Topics to learn more
+## Topics/Keywords to learn more/Research
 
 ## Jobs
 
@@ -41,3 +39,5 @@ update soon...
 ## Tools
 
 ## Skills
+
+## Notes and yap aka everything you should know pls read and rememba
