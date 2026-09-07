@@ -42,6 +42,11 @@ update soon...
 * Front of House (FOH) engineer = live sound
 * Technician audio engineer = live sound
 * Monitor Engineer = live sound
+* Lighting designer = GrandMA2, Capture, Avolites Quartz, DMX, artnet
+* Light follower
+* Camera man
+* Switcher
+* Visual guy / Visual jockey (VJ) / projector guy = Resolume Arena, TouchDesigner
 * System Engineer
 * Broadcast Audio Engineer
 * Playback Engineer
