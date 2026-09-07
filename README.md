@@ -25,6 +25,7 @@ update soon...
 
 ## Books
 * Yamaha Sound Reinforcement Handbook = they teached me the whole book very essential
+* Mastering Audio: The Art and the Science by Bob Katz = addition for mastering
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
@@ -108,4 +109,6 @@ update soon...
 * System setup = Dante, Madi, etc.
 
 ## Notes and yap aka everything you should know pls read and rememba
-* 4 types of compressor = FET(fast,colored), VCA(fast,clean), opto(slow,colored), Vari-mu/tube(veryslow,verycolored)
+* 4 types of compressor = FET(fast,colored), VCA(fast,clean), opto(slow,colored), Vari-mu/tube(veryslow,verycolored).
+* Mic you should know = u87(vox), d112(kickout), beta91(kickin), sm57(everything), km184(highfreq/string/hihat/OH), md421(tom), 414(everythingrich), tlm103(414butmorebass), re20(radioheadvox everyflatmic), vip50(vintage), townsendl22(popular vox), dpa(orchestra), schoeps(orchestra).
+* Decca tree miking, basic stereo miking technique ortf ab xy and so on
