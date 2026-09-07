@@ -39,6 +39,16 @@
   <div id="readme">Loading...</div>
 
   <script>
+    function sendHeight() {
+      window.parent.postMessage(
+        {
+          type: "github-page-height",
+          height: document.documentElement.scrollHeight
+        },
+        "*"
+      );
+    }
+
     fetch("https://raw.githubusercontent.com/homelessananpat/awesome-music-technology/main/README.md")
       .then(response => {
         if (!response.ok) {
@@ -48,12 +58,25 @@
       })
       .then(markdown => {
         document.getElementById("readme").innerHTML = marked.parse(markdown);
+
+        // Wait for the README to render
+        sendHeight();
+
+        // Send again after images finish loading
+        document.querySelectorAll("img").forEach(img => {
+          img.addEventListener("load", sendHeight);
+        });
       })
       .catch(error => {
         document.getElementById("readme").textContent =
           "Failed to load README.";
         console.error(error);
+        sendHeight();
       });
+
+    // Detect any future changes in page size
+    const observer = new ResizeObserver(sendHeight);
+    observer.observe(document.body);
   </script>
 </body>
 </html>
