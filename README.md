@@ -24,6 +24,7 @@ Wowzers based as always :3
 update soon...
 
 ## Books
+*
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
@@ -35,13 +36,19 @@ update soon...
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
 
 ## Topics/Keywords to learn more/Research
+*
 
 ## Jobs
+*
 
 ## Art projects for funsies
+*
 
 ## Tools
+*
 
 ## Skills
+*
 
 ## Notes and yap aka everything you should know pls read and rememba
+*
