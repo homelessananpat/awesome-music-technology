@@ -24,7 +24,7 @@ Wowzers based as always :3
 update soon...
 
 ## Books
-*
+* Yamaha Sound Reinforcement Handbook = they teached me the whole book very essential
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
@@ -36,7 +36,7 @@ update soon...
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
 
 ## Topics/Keywords to learn more/Research
-*
+* Electroacoustic music
 
 ## Jobs
 * Front of House (FOH) engineer = live sound
@@ -87,13 +87,25 @@ update soon...
 * Audio Visual Artist = make sounds go beep and boop, make visuals go veep and voop
 
 ## Art projects for funsies
-*
+* Noise box
+* Arduino with sensor
 
 ## Tools
-*
+* Piezo mic (contact mic)
+* Tube = for air blowing instruments
+* String = for string instruments
+* Soldering iron
+* Flux
 
 ## Skills
-*
+* Circuit bending
+* Creative coding
+* Soldering
+* Audio equipment maintenance
+* Audio signal flow
+* DAW = Protools, Ableton, Logic pro, Reaper
+* Live sound mixer
+* System setup = Dante, Madi, etc.
 
 ## Notes and yap aka everything you should know pls read and rememba
-*
+* 4 types of compressor = FET(fast,colored), VCA(fast,clean), opto(slow,colored), Vari-mu/tube(veryslow,verycolored)
