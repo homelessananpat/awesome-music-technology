@@ -1,7 +1,7 @@
 # awesome-music-technology
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/homelessananpat/awesome-music-technology/main/assets/musictech.jpg"/>
+<img src="https://raw.githubusercontent.com/homelessananpat/awesome-music-technology/blob/main/musictech.jpg"/>
 </p>
 
 Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design, audio visual art, art installation, avant garde experimental sound/visual, glitch art, internet art and more.
