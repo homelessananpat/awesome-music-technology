@@ -78,6 +78,7 @@ update soon...
 * Broadcast / Radio / Podcast engineer
 * Music Technology Professor
 * Audio Sales Engineer = rich ass job commission ahahahhaah
+* Music marketing / Music business / Music label / Music licensing
 * Audio Visual Artist = make sounds go beep and boop, make visuals go veep and voop
 
 ## Art projects for funsies
