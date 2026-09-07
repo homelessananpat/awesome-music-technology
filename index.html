@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome Music Technology</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    pre {
+      overflow-x: auto;
+    }
+
+    a {
+      word-break: break-word;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="readme">Loading...</div>
+
+  <script>
+    fetch("https://raw.githubusercontent.com/homelessananpat/awesome-music-technology/main/README.md")
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Could not load README");
+        }
+        return response.text();
+      })
+      .then(markdown => {
+        document.getElementById("readme").innerHTML = marked.parse(markdown);
+      })
+      .catch(error => {
+        document.getElementById("readme").textContent =
+          "Failed to load README.";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
