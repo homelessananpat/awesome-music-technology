@@ -73,6 +73,7 @@ update soon...
 
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
+* [Smaart](https://www.rationalacoustics.com/pages/smaart-home) = for audio system tuning
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
@@ -147,6 +148,9 @@ update soon...
 * DAW = Protools, Ableton, Logic pro, Reaper
 * Live sound mixer
 * System setup = Dante, Madi, etc.
+
+## Certifications
+* [Dante Certification level 1-3](https://www.getdante.com/resources/training/dante-certification-program/) = they also forced me to get this lvl1-3 very hard networking sumting
 
 ## Notes and yap aka everything you should know pls read and rememba
 * 4 types of compressor = FET(fast,colored), VCA(fast,clean), opto(slow,colored), Vari-mu/tube(veryslow,verycolored).
