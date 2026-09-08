@@ -26,18 +26,58 @@ update soon...
 ## Books
 * Yamaha Sound Reinforcement Handbook = they teached me the whole book very essential
 * Mastering Audio: The Art and the Science by Bob Katz = addition for mastering
+* [The theory and technique of electronic music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf)
+* [The recording engineer handbook](https://www.academia.edu/18092655/The_recording_engineer_handbook)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
+* [Miller Puckette website](https://msp.ucsd.edu/) = Pure data creator
+* [Center for Computer Research in Music and Acoustics (CCRMA)](https://ccrma.stanford.edu/home) = CCRMA Stanford edu
+* [dmpdoc neocities](https://dmpdoc.neocities.org/) = Resources for learning electronic music production
+* [Monoskop](https://monoskop.org/Computer_music) = a wiki for arts and studies.
+* [Wiby search engine](https://wiby.me/) = search engine for indie web (elite ball knowledge for niche websites research)
+* [Neocities](https://neocities.org/browse) = indie web (my portfolio is [here](https://ananpat.neocities.org/))
+* [Programming Digital Media DDEM basic of sound](https://pdm.lsupathways.org/3_audio/0_basicsofsound/)
+* [Sound On Sound techniques](https://www.soundonsound.com/techniques/whats-sound) = theory/techniques whats sound
+* [Glitch art resources by Phillip Stearns](https://phillipstearns.wordpress.com/glitch-art-resources/)
+* [Glitchet art resources](https://www.glitchet.com/)
+* [Glitchology](https://glitchology.com/)
+* [wordart](https://wordart.com/)
+* [image95](https://image95.com/)
+
+## Github
+* [Awesome music programming](https://github.com/zoejane/awesome-music-programming)
+* [Awesome live coding](https://github.com/toplap/awesome-livecoding)
+* [Awesome VJing](https://github.com/LimeLimeW/awesome-vjing)
+* [Awesome Audio engineering](https://github.com/brandonhimpfen/awesome-audio-engineering)
+* [Sound art resources](https://github.com/brianhouse/sound_art)
+* [Glitch art resources by osromusic](https://github.com/osromusic/Glitch-Arts-Resources)
 
 ## Youtube
 * [Digital Audio Fundamentals playlist](https://www.youtube.com/watch?v=Su9_i1UOz9U&list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw) = they forced me to watch this in uni so go ahead and watch it.
+* [Plugdata tutorial playlist](https://www.youtube.com/playlist?list=PLZYD2Edyty0BfJ1RAH2heamjJGVj0TEau)
+* [Modular synth basic playlist](https://youtube.com/playlist?list=PLa9Em_H8Xs_al-r_90xYiuiz-3N8HZyf_&si=fBgP7dOtWBzEZXrv)
+* [ECE4450 Analog circuit for music synthesis lectures](https://www.youtube.com/playlist?list=PLOunECWxELQS5bMdWo9VhmZtsCjhjYNcV)
+* [Dan Worrall](https://www.youtube.com/@danworrall) = very accurate audio engineering information
+* [MMT Electroacoustic composition live](https://www.youtube.com/watch?v=MiaN1ZMR0s8)
+* [Kohui festival](https://www.youtube.com/watch?v=OQLGI_wohss) = Korean audio visual fest very cool
+* [Alva Noto lecture](https://www.youtube.com/watch?v=2Y1w1dO4Iks)
+* [Autechre max msp behind the scene](https://www.youtube.com/watch?v=3poN6FDyB28) = learn how Autechre abusing Max MSP
+* [Piezo mic for noise music](https://www.youtube.com/watch?v=dezLjGYYimE) = piezo mic / tube / string / diy instruments
+* [Circuit bending basics](https://www.youtube.com/watch?v=aEG3M_9XU3E&t=120s)
+* [Nicolas Bras diy tube instuments guy](https://www.youtube.com/@nicolasbras)
+* [FITNESSS live noise](https://www.youtube.com/@fitnesss020) = insane set moshing with listeners Ableton+midiFighter to control sound and light
+* [Luca Pagan live sound art](https://www.youtube.com/watch?v=acfU3-fflTw) = exoskeleton arduino+sensor control sound and light
+* [Harsh noise research](https://www.youtube.com/@harshnoiseresearch) = found this guy on youtube veri cool
+* [Omri Cohen](https://youtube.com/@omricohen-music?si=sfHf-AxfF763yASe) = OG modular synth VCV rack tutorial
 
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
+* Lecture
+* Alva noto
 
 ## Jobs
 * Front of House (FOH) engineer = live sound
