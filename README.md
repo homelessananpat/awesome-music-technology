@@ -46,6 +46,17 @@ update soon...
 * [image95](https://image95.com/)
 * [paint.stx.studio](https://paint.stx.studio/) = site for painting speedrun art.
 * [TOPLAP](https://blog.toplap.org/) = TOPLAP forum live coding music, a lot of cool ppl hang out here.
+* [Ksoloti - Gills](https://ksoloti.github.io/6-gills.html) = cool DIY music gear.
+* [Bastl - Softpop2](https://bastl-instruments.com/instruments/softpop2) = cool semi modular gear.
+* [Musicthing modular - Workshop system](https://www.musicthing.co.uk/workshopsystem/) = buy this mini modular system with computer module if u rich and wanna start playing modular synth hardware it makes beep and boop my personal fav you can even custom code your computer module and stuff.
+* [Thonk synth DIY](https://www.thonk.co.uk/) = sell DIY modular synth.
+* [MidiHub](https://blokas.io/midihub/) = midi gear (MIDI Interface & Stand-Alone MIDI Processor).
+* [Ishkur Guide to Electronic music](https://music.ishkur.com/) = history / roadmaps for electronic music genres.
+* [EveryNoise at once](https://everynoise.com/) = music genres.
+* [UbuWeb](https://ubu.com/) = digital library of avant garde flim, sound art, musique concrete, music.
+* [garten.salat.dev](https://garten.salat.dev/) = personal everything live coding. try https://kabel.salat.dev/
+* [kabel.salat.dev](https://kabel.salat.dev/) = browser live coding environment by the same guy that made garten.salat.dev
+* [froos.cc](https://froos.cc/) = personal web by froos everything live coding.
 
 ## Github
 * [Awesome music programming](https://github.com/zoejane/awesome-music-programming)
@@ -80,15 +91,24 @@ update soon...
 * [Resolume Arena](https://resolume.com/) = industry standard for visual.
 * [VDMX](https://www.vidvox.net/) = VJ software.
 * [Blender](https://www.blender.org/) = open source 3D software.
-* [Unreal Engine](https://www.unrealengine.com/) = 3D software for game, visual, art, ppl abusing this for interactive visual.
+* [Rhino3D](https://www.rhino3d.com/learn/) = paid CAD software.
+* [GrassHopper](https://www.grasshopper3d.com/page/download-1) = node based inside Rhino3D, hidden gem for visual.
+* [Unreal Engine](https://www.unrealengine.com/) = game engine, visual, art, ppl abusing this for interactive visual.
+* [Unity](https://unity.com/) = game engine.
 * [GrandMA2](https://www.malighting.com/downloads/products/grandma2/) = industry standard for lighting.
 * [Smaart](https://www.rationalacoustics.com/pages/smaart-home) = for audio system tuning.
 * [SuperCollider](https://supercollider.github.io/) =  A platform for audio synthesis and algorithmic composition, used by musicians, artists and researchers working with sound.
 * [Tidal Cycles](https://tidalcycles.org/) = live coding environment designed for musical improvisation.
+* [Strudel.cc](https://strudel.cc/) = broser base easy verion of Tidal cycles and Hydra.js.
+* [Flok.cc](https://flok.cc/) = multi player Tidal cycles jam.
 * [Sonic Pi](https://sonic-pi.net/) = open source live coding environment based on Ruby.
 * [Greggman Bytebeat](https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html) = fun Bytebeat browser ver (using math to create 8bit style music.
 * [p5.js](https://p5js.org/tutorials/) = creative coding using code to make art, I learn a lot from here very fun.
 * [Hydra.js](https://hydra.ojack.xyz/) = very fast browser based live coding visual very easy to learn.
+* [FoxDot](https://github.com/Qirky/FoxDot) = Python live coding music.
+* [Kodelife](https://hexler.net/kodelife) = realtime GPU shader for visual.
+* [TouchOSC](https://hexler.net/touchosc) = send OSC to control stuff.
+* [MidiLoop](https://www.bigfug.com/software/midiloop/) = MIDI loop recorder and playback tool for real-time automation and tempo-synced performance control.
 * [TouchDesigner](https://derivative.ca/) = popular node based interactive visual.
 * [Cable.gl](https://cables.gl/) = node based visual like TouchDesigner.
 * [Processing](https://processing.org/tutorials) = creative coding veri cool texture.
@@ -99,6 +119,13 @@ update soon...
 * [Ableton](https://www.ableton.com/) = best DAW for electronic music (my personal fav).
 * [Logic pro](https://www.apple.com/logic-pro/) = apple's DAW easy to use with good stock plugins.
 * [Reaper](https://www.reaper.fm/) = DAW that gonna replace protools lol, it got ReaScript to automate everything wowzers.
+* [Serum2](https://xferrecords.com/products/serum-2) = modern day everything sound design.
+* [Vital](https://vital.audio/) = serum2 but has free ver.
+* [PhasePlant](https://kilohearts.com/products/phase_plant) = custom sound design tool.
+* [CDP - Composer Desktop Project](https://www.composersdesktop.com/) = open source 500++ sound manipulation programs.
+* [SoundThread](https://github.com/j-p-higgins/SoundThread) = GUI for CDP.
+* [Csound](https://csound.com/) = low level audio programming language.
+* [ChucK](https://chuck.stanford.edu/) = programming language for real-time sound synthesis never seen anybody still use this old lang lol it also has ChucK~ object external in pd.
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
