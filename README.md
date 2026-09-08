@@ -126,6 +126,8 @@ update soon...
 * [SoundThread](https://github.com/j-p-higgins/SoundThread) = GUI for CDP.
 * [Csound](https://csound.com/) = low level audio programming language.
 * [ChucK](https://chuck.stanford.edu/) = programming language for real-time sound synthesis never seen anybody still use this old lang lol it also has ChucK~ object external in pd.
+* [VCV rack](https://vcvrack.com/Rack) = free and open source digital modular synth software the absolute beast for sound synthesis my goat heavily recommended for everybody.
+* [ORCA](https://100r.co/site/orca.html) = esoteric 2D live coding music rlly cool for random sequencer can be paired with DAW, TouchDesigner, VCV rack.
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
