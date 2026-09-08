@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/homelessananpat/awesome-music-technology/main/musictech.jpg" width="400"/>
 </p>
 
-Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design, audio visual art, art installation, avant garde experimental sound/visual, glitch art, creative coding, internet art and more.
+Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design, audio visual art, art installation, avant garde experimental sound/visual, glitch art, creative coding, indie web, internet art and more.
 
 ## why tho?
 
@@ -28,15 +28,33 @@ update soon...
 * Mastering Audio: The Art and the Science by Bob Katz = addition for mastering
 * [The theory and technique of electronic music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf)
 * [The recording engineer handbook](https://www.academia.edu/18092655/The_recording_engineer_handbook)
+* [Microsound by Curtis Roads](https://monoskop.org/images/d/d1/Roads_Curtis_Microsound.pdf)
+* [How to make noise](https://digitalmusicacademy.ru/sites/default/files/content/How_to_%20Make_a_Noise_0.pdf)
+* [A Gentle Introduction To SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
 * [Miller Puckette website](https://msp.ucsd.edu/) = Pure data creator
 * [Center for Computer Research in Music and Acoustics (CCRMA)](https://ccrma.stanford.edu/home) = CCRMA Stanford edu
-* [dmpdoc neocities](https://dmpdoc.neocities.org/) = Resources for learning electronic music production
+* [dmpdoc neocities](https://dmpdoc.neocities.org/) = Resources for learning electronic music production.
+* [lainchan hacking general archive neocities](https://lainhackinggeneral4.neocities.org/)
+* [eldritchdata neocities](https://eldritchdata.neocities.org/) = schizo linux pure html.
 * [Monoskop](https://monoskop.org/Computer_music) = a wiki for arts and studies.
 * [Wiby search engine](https://wiby.me/) = search engine for indie web (elite ball knowledge for niche websites research)
+* [Nyanline](https://www.nyanline.com/) = indie web searcher.
 * [Neocities](https://neocities.org/browse) = indie web (my portfolio is [here](https://ananpat.neocities.org/))
+* [Nekoweb](https://nekoweb.org/) = indie web.
+* [NewGrounds](https://www.newgrounds.com/) = underground web.
+* [the cozy cat](https://thecozy.cat/) = indie web.
+* [mire.meadow.cafe](https://mire.meadow.cafe/discover) = indie web discover.
+* [sip neocities](https://sip.neocities.org/) = personal fav funnie neocities site.
+* [Status Cafe](https://status.cafe/) = live chat indie web.
+* [piclog](https://piclog.blue/) = live pic board.
+* [bearblog](https://bearblog.dev/) = indie web.
+* [a2b2.org](https://a2b2.org/starboard) = internet art.
+* [crimson daggers forum](https://crimsondaggers.com/forum/index.php) = art forum.
+* [lines forum](https://llllllll.co/) = sound / art / audio gear forum.
+* [LandChad.net](https://landchad.net/) = schizo internet web tutorial.
 * [Programming Digital Media DDEM basic of sound](https://pdm.lsupathways.org/3_audio/0_basicsofsound/)
 * [Sound On Sound techniques](https://www.soundonsound.com/techniques/whats-sound) = theory/techniques whats sound
 * [Glitch art resources by Phillip Stearns](https://phillipstearns.wordpress.com/glitch-art-resources/)
@@ -49,6 +67,7 @@ update soon...
 * [Ksoloti - Gills](https://ksoloti.github.io/6-gills.html) = cool DIY music gear.
 * [Bastl - Softpop2](https://bastl-instruments.com/instruments/softpop2) = cool semi modular gear.
 * [Musicthing modular - Workshop system](https://www.musicthing.co.uk/workshopsystem/) = buy this mini modular system with computer module if u rich and wanna start playing modular synth hardware it makes beep and boop my personal fav you can even custom code your computer module and stuff.
+* [Musicthing modular - Workshop system browser version](https://vincentmaurer.de/patch-notes/) = free to play on browser.
 * [Thonk synth DIY](https://www.thonk.co.uk/) = sell DIY modular synth.
 * [MidiHub](https://blokas.io/midihub/) = midi gear (MIDI Interface & Stand-Alone MIDI Processor).
 * [Ishkur Guide to Electronic music](https://music.ishkur.com/) = history / roadmaps for electronic music genres.
@@ -57,6 +76,53 @@ update soon...
 * [garten.salat.dev](https://garten.salat.dev/) = personal everything live coding. try https://kabel.salat.dev/
 * [kabel.salat.dev](https://kabel.salat.dev/) = browser live coding environment by the same guy that made garten.salat.dev
 * [froos.cc](https://froos.cc/) = personal web by froos everything live coding.
+* [Hydra.js book glitches.me](https://hydra-book.glitches.me/#/) = book for learning hydra.js
+* [Hydra.js docs learning](https://hydra.ojack.xyz/docs/docs/learning/)
+* [Hydra.js functions](https://ojack.xyz/hydra-functions/)
+* [PresetShare](https://presetshare.com/) = site to share synth presets (Vital, Serum2, PhasePlant).
+* [LooperMan](https://www.looperman.com/loops) = free loops.
+* [Samplette](https://samplette.io/75461710) = random samples from youtube site.
+* [Resolume Arena Training](https://www.resolume.com/training)
+* [Harvard free courses](https://pll.harvard.edu/catalog/free)
+* [SoundEnThai](https://soundenthai.com/category/livesound/) = thai sound engineer knowledge and news.
+* [Instructables](https://www.instructables.com/Make-Your-Own-Oscilloscope/) = DIY everything tutorial.
+* [iceLectronic](https://icelectronic.com/beginner/index.htm) = thai basic electronic tutorial.
+* [Arch Wiki](https://wiki.archlinux.org/title/Installation_guide)
+* [Matthew Ragan resources](https://matthewragan.com/teaching-resources/touchdesigner/) = TouchDesigner courses he teaches at Arizona State University wowzers.
+* [Wildergarden Audio](https://wildergardenaudio.com/) = plugin dev i rlly like MAIM.
+* [AirWindows](https://www.airwindows.com/vsts/) = based plugins company.
+* [CircuitBenders.co.uk](https://www.circuitbenders.co.uk/tips.html) = circuit bending tips.
+* [FreeSound.org](https://freesound.org/) = free sound for sound effects.
+* [Pixabay.com](https://pixabay.com/sound-effects/) = free sound effects.
+* [Radio.garden](https://radio.garden/visit/bangkok) = radio around the globe.
+* [antonproducer](https://antonproducer.com/free-tools/) = free tools.
+* [schmitzbits.de](https://www.schmitzbits.de/index.html) = DIY synth.
+* [Music From Outer Space](https://musicfromouterspace.com/) = my beloved DIY synth website fav fav fav.
+* [constraint.systems](https://constraint.systems/) = 3D interactive site to create photos/vids.
+* [roadmap.sh](https://roadmap.sh/) = dev roadmap.
+* [the odin project](https://www.theodinproject.com/) = dev project based learning.
+* [how to start google](https://paulgraham.com/google.html) = startup yap.
+* [stallman](https://stallman.org/stallman-computing.html) = linux yap.
+* [google learn](https://learning.google.com/experiments/learn-about/signup)
+* [NotebookLM](https://notebook.google.com/) = ai to speedrun youtube / books.
+* [OverTheWire](https://overthewire.org/wargames/bandit/) = bandit game for basic Cysec.
+* [netacad](https://www.netacad.com/cybersecurity) = learn Cysec.
+* [Leetcode](https://leetcode.com/) = leetcode.
+* [Comfy.guide](https://comfy.guide/) = computa guide.
+* [Cambridge-mt](https://www.cambridge-mt.com/ms3/mtk/) = free multitracks for mixing woaw.
+* [Synth DIY Wiki](https://sdiy.info/wiki/Synth_DIY_Wiki) = DIY synth wiki.
+* [LOOK MUM NO COMPUTER](https://www.lookmumnocomputer.com/projects) = lookmumnocomputer projects.
+* [mitxela](https://mitxela.com/projects/hardware) = mitxela projects.
+* [live:js](https://livejs.network/) = artist collective digital art/music.
+* [OpenProcessing](https://openprocessing.org/) = creative coding.
+* [FastHub.net](https://fasthub.net/) = lain intro style robot vox generator.
+* [Musicca virtual piano](https://www.musicca.com/piano) = virtual piano in browser.
+* [madebyevan webgl water](https://madebyevan.com/webgl-water/) = water simulation in browser.
+* [Tape Fiasco 2](https://www.phasefiasco.com/tapefiasco-2) = multiFX plugin.
+* [Rate Your Music](https://rateyourmusic.com/) = rym for music nerd.
+* [Album of the year](https://www.albumoftheyear.org/)
+* [fmhy.net](https://fmhy.net/beginners-guide) = best free media site of all time.
+* [AMROC](https://amcoustics.com/tools/amroc) = room mode calculator they teached me this in uni.
 
 ## Github
 * [Awesome music programming](https://github.com/zoejane/awesome-music-programming)
@@ -83,6 +149,11 @@ update soon...
 * [Luca Pagan live sound art](https://www.youtube.com/watch?v=acfU3-fflTw) = exoskeleton arduino+sensor control sound and light
 * [Harsh noise research](https://www.youtube.com/@harshnoiseresearch) = found this guy on youtube veri cool
 * [Omri Cohen](https://youtube.com/@omricohen-music?si=sfHf-AxfF763yASe) = OG modular synth VCV rack tutorial
+* [GrandMA2 tutorial in thai](https://www.youtube.com/playlist?list=PLKikDYCE4491K2BwsZKqSuc53ETgHENLI)
+* [GrandMA2 installation in thai](https://www.youtube.com/watch?v=khl_fFJAIr8&t=1457s)
+* [GrundTon](https://www.youtube.com/@grundtongrundton/videos) = pure data vids
+* [Lantertronics](https://www.youtube.com/@Lantertronics/videos) = behind audio circuits.
+* [TildeSounds](https://www.youtube.com/@TildeSounds/videos) = music production techniques.
 
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
@@ -91,6 +162,7 @@ update soon...
 * [Resolume Arena](https://resolume.com/) = industry standard for visual.
 * [VDMX](https://www.vidvox.net/) = VJ software.
 * [Blender](https://www.blender.org/) = open source 3D software.
+* [Houdini](https://www.sidefx.com/products/houdini/) = paid 3D software.
 * [Rhino3D](https://www.rhino3d.com/learn/) = paid CAD software.
 * [GrassHopper](https://www.grasshopper3d.com/page/download-1) = node based inside Rhino3D, hidden gem for visual.
 * [Unreal Engine](https://www.unrealengine.com/) = game engine, visual, art, ppl abusing this for interactive visual.
@@ -108,6 +180,7 @@ update soon...
 * [FoxDot](https://github.com/Qirky/FoxDot) = Python live coding music.
 * [Kodelife](https://hexler.net/kodelife) = realtime GPU shader for visual.
 * [TouchOSC](https://hexler.net/touchosc) = send OSC to control stuff.
+* [Sensors2OSC](https://sensors2.org/osc/) = free TouchOSC in android.
 * [MidiLoop](https://www.bigfug.com/software/midiloop/) = MIDI loop recorder and playback tool for real-time automation and tempo-synced performance control.
 * [TouchDesigner](https://derivative.ca/) = popular node based interactive visual.
 * [Cable.gl](https://cables.gl/) = node based visual like TouchDesigner.
@@ -127,7 +200,12 @@ update soon...
 * [Csound](https://csound.com/) = low level audio programming language.
 * [ChucK](https://chuck.stanford.edu/) = programming language for real-time sound synthesis never seen anybody still use this old lang lol it also has ChucK~ object external in pd.
 * [VCV rack](https://vcvrack.com/Rack) = free and open source digital modular synth software the absolute beast for sound synthesis my goat heavily recommended for everybody.
+* [Audulus](https://audulus.com/) = node based synth app in mobile.
 * [ORCA](https://100r.co/site/orca.html) = esoteric 2D live coding music rlly cool for random sequencer can be paired with DAW, TouchDesigner, VCV rack.
+* [SunVox](https://www.warmplace.ru/soft/sunvox/) = experimental node based / tracker / synthesizer free on computer tho.
+* [kyma](https://kyma.symbolicsound.com/pacamara-apu/) = sound design tools.
+* [BBC Symphony Orchestra](https://www.spitfireaudio.com/collections/bbc-symphony-orchestra) = free orchestra plugin.
+* [Beam for live](https://www.showsync.com/beam-for-live#buy) = ableton control DMX
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
