@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/homelessananpat/awesome-music-technology/main/musictech.jpg" width="400"/>
 </p>
 
-Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design, audio visual art, art installation, avant garde experimental sound/visual, glitch art, internet art and more.
+Ungatekeeping a curated list of learning resources about music technology, audio engineering, electroacoustic music, computer music, sound design, audio visual art, art installation, avant garde experimental sound/visual, glitch art, creative coding, internet art and more.
 
 ## why tho?
 
@@ -44,6 +44,8 @@ update soon...
 * [Glitchology](https://glitchology.com/)
 * [wordart](https://wordart.com/)
 * [image95](https://image95.com/)
+* [paint.stx.studio](https://paint.stx.studio/) = site for painting speedrun art.
+* [TOPLAP](https://blog.toplap.org/) = TOPLAP forum live coding music, a lot of cool ppl hang out here.
 
 ## Github
 * [Awesome music programming](https://github.com/zoejane/awesome-music-programming)
@@ -73,7 +75,30 @@ update soon...
 
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
-* [Smaart](https://www.rationalacoustics.com/pages/smaart-home) = for audio system tuning
+* [Max MSP/Jitter](https://cycling74.com/products/max) = pd but paid comes with cool external and stuff.
+* [Pure Data GEM](https://puredata.info/downloads/gem/) = use to make visual like Jitter, better be download from deken.
+* [Resolume Arena](https://resolume.com/) = industry standard for visual.
+* [VDMX](https://www.vidvox.net/) = VJ software.
+* [Blender](https://www.blender.org/) = open source 3D software.
+* [Unreal Engine](https://www.unrealengine.com/) = 3D software for game, visual, art, ppl abusing this for interactive visual.
+* [GrandMA2](https://www.malighting.com/downloads/products/grandma2/) = industry standard for lighting.
+* [Smaart](https://www.rationalacoustics.com/pages/smaart-home) = for audio system tuning.
+* [SuperCollider](https://supercollider.github.io/) =  A platform for audio synthesis and algorithmic composition, used by musicians, artists and researchers working with sound.
+* [Tidal Cycles](https://tidalcycles.org/) = live coding environment designed for musical improvisation.
+* [Sonic Pi](https://sonic-pi.net/) = open source live coding environment based on Ruby.
+* [Greggman Bytebeat](https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html) = fun Bytebeat browser ver (using math to create 8bit style music.
+* [p5.js](https://p5js.org/tutorials/) = creative coding using code to make art, I learn a lot from here very fun.
+* [Hydra.js](https://hydra.ojack.xyz/) = very fast browser based live coding visual very easy to learn.
+* [TouchDesigner](https://derivative.ca/) = popular node based interactive visual.
+* [Cable.gl](https://cables.gl/) = node based visual like TouchDesigner.
+* [Processing](https://processing.org/tutorials) = creative coding veri cool texture.
+* [NodeBox](https://nodebox.net/) = The NodeBox family of tools gives you the leverage to create generative design the way you want.
+* [Fiji/ImageJ](https://imagej.net/software/fiji/) = open source image processing software.
+* [OpenFrameworks](https://openframeworks.cc/) = open source C++ toolkit for creative coding.
+* [Protools](https://www.avid.com/pro-tools) = industry standard DAW.
+* [Ableton](https://www.ableton.com/) = best DAW for electronic music (my personal fav).
+* [Logic pro](https://www.apple.com/logic-pro/) = apple's DAW easy to use with good stock plugins.
+* [Reaper](https://www.reaper.fm/) = DAW that gonna replace protools lol, it got ReaScript to automate everything wowzers.
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
