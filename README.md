@@ -94,6 +94,7 @@ update soon...
 * [CircuitBenders.co.uk](https://www.circuitbenders.co.uk/tips.html) = circuit bending tips.
 * [FreeSound.org](https://freesound.org/) = free sound for sound effects.
 * [Pixabay.com](https://pixabay.com/sound-effects/) = free sound effects.
+* [Internet Archive](https://archive.org/) = non-profit library of millions of free texts, movies, software, music, websites, and more.
 * [Radio.garden](https://radio.garden/visit/bangkok) = radio around the globe.
 * [antonproducer](https://antonproducer.com/free-tools/) = free tools.
 * [schmitzbits.de](https://www.schmitzbits.de/index.html) = DIY synth.
@@ -164,6 +165,7 @@ update soon...
 * [Blender](https://www.blender.org/) = open source 3D software.
 * [Houdini](https://www.sidefx.com/products/houdini/) = paid 3D software.
 * [Rhino3D](https://www.rhino3d.com/learn/) = paid CAD software.
+* [Mandelblub3D(MB3D)](https://mandelbulb3d.com/) = open source fractal software EBK.
 * [GrassHopper](https://www.grasshopper3d.com/page/download-1) = node based inside Rhino3D, hidden gem for visual.
 * [Unreal Engine](https://www.unrealengine.com/) = game engine, visual, art, ppl abusing this for interactive visual.
 * [Unity](https://unity.com/) = game engine.
