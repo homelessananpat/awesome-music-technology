@@ -175,6 +175,7 @@ update soon...
 * [Tidal Cycles](https://tidalcycles.org/) = live coding environment designed for musical improvisation.
 * [Strudel.cc](https://strudel.cc/) = broser base easy verion of Tidal cycles and Hydra.js.
 * [Flok.cc](https://flok.cc/) = multi player Tidal cycles jam.
+* [Konduktiva](https://github.com/renickbell/konduktiva) = JavaScript live coding tool made by Renick Bell
 * [Sonic Pi](https://sonic-pi.net/) = open source live coding environment based on Ruby.
 * [Greggman Bytebeat](https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html) = fun Bytebeat browser ver (using math to create 8bit style music.
 * [p5.js](https://p5js.org/tutorials/) = creative coding using code to make art, I learn a lot from here very fun.
