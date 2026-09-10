@@ -47,7 +47,7 @@ update soon...
 * [TRANSFORMER DESIGN PRINCIPLES](https://archive.org/details/TransformerDesignPrinciples)
 * [ Designing sound by Farnell, Andy, 1969](https://archive.org/details/designingsound0000farn/mode/2up) = the holy grail of sound design MUST READ (MIT press).
 * [Clocking, Jitter and the Digidesign 192 I/O Audio Interface](https://www.scribd.com/document/14209058/192ClockJitter-30957)
-* [Introduction to Computer Music An Electronic Textbook By Prof. Jeffrey Hass](https://cmtext.com/index.php) = strumble across this absolute gem of computer music resources from Indiana University Bloomington, also check out this [Appendices](https://cmtext.com/appendices/appendix_index.php) and [Texts and Resources](https://cmtext.com/appendices/appendix_A.php).
+* [Introduction to Computer Music An Electronic Textbook By Prof. Jeffrey Hass](https://cmtext.com/index.php) = stumbled across this absolute gem of computer music resources from Indiana University Bloomington. Also, check out the [Appendices](https://cmtext.com/appendices/appendix_index.php) and [Texts and Resources](https://cmtext.com/appendices/appendix_A.php).
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
