@@ -45,6 +45,7 @@ update soon...
 * [Relationship between temperature and speed of sound](https://www.facebook.com/groups/536650310220214/posts/1757279244823975/)
 * [The Recording and Reproduction of Sound (Oliver Read) 1952](https://archive.org/details/The_Recording_and_Reproduction_of_Sound_Oliver_Read_1952)
 * [TRANSFORMER DESIGN PRINCIPLES](https://archive.org/details/TransformerDesignPrinciples)
+* [ Designing sound by Farnell, Andy, 1969](https://archive.org/details/designingsound0000farn/mode/2up) = the holy grail of sound design MUST READ (MIT press).
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
