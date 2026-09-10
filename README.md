@@ -46,6 +46,7 @@ update soon...
 * [The Recording and Reproduction of Sound (Oliver Read) 1952](https://archive.org/details/The_Recording_and_Reproduction_of_Sound_Oliver_Read_1952)
 * [TRANSFORMER DESIGN PRINCIPLES](https://archive.org/details/TransformerDesignPrinciples)
 * [ Designing sound by Farnell, Andy, 1969](https://archive.org/details/designingsound0000farn/mode/2up) = the holy grail of sound design MUST READ (MIT press).
+* [Clocking, Jitter and the Digidesign 192 I/O Audio Interface](https://www.scribd.com/document/14209058/192ClockJitter-30957)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
