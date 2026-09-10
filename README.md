@@ -24,13 +24,27 @@ Wowzers based as always :3
 update soon...
 
 ## Books
-* Yamaha Sound Reinforcement Handbook = they teached me the whole book very essential
+* [Yamaha The Sound Reinforcement Handbook (2nd ed.)](https://archive.org/details/gary-davis-gary-d.-davis-ralph-jones-yamaha-international-cor-the-sound-reinforc/mode/2up) = they teached me the whole book very essential
 * Mastering Audio: The Art and the Science by Bob Katz = addition for mastering
 * [The theory and technique of electronic music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf)
 * [The recording engineer handbook](https://www.academia.edu/18092655/The_recording_engineer_handbook)
 * [Microsound by Curtis Roads](https://monoskop.org/images/d/d1/Roads_Curtis_Microsound.pdf)
 * [How to make noise](https://digitalmusicacademy.ru/sites/default/files/content/How_to_%20Make_a_Noise_0.pdf)
 * [A Gentle Introduction To SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
+* [Modern recording techniques by Huber, David Miles](https://archive.org/details/modernrecordingt0000hube)
+* [Calculus know-it-all](https://archive.org/details/calculusknowital0000gibi)
+* [Small Signal Audio Design](https://www.google.co.th/books/edition/Small_Signal_Audio_Design/gvbgEAAAQBAJ?hl=th&gbpv=0)
+* [Electricity for the entertainment electrician & technician](https://archive.org/details/electricityforen0000cade/mode/2up)
+* [Master Handbook of Acoustics](https://books.google.co.th/books/about/Master_Handbook_of_Acoustics.html?id=6tiJ1cwnwxoC&redir_esc=y)
+* [Grounds for Grounding: A Circuit to System Handbook](https://books.google.co.th/books/about/Grounds_for_Grounding.html?id=1WfPWbSN7pUC&redir_esc=y)
+* [University physics with modern physics 13th edition](https://archive.org/details/isbn_9780857766847_2/page/n3/mode/2up)
+* [ฟิสิกส์เรื่องที่ 12 เสียง(highschool physics)](https://www.slideshare.net/slideshow/12-17057710/17057710)
+* [physical properties of air at standard atmospheric pressure](https://www.chegg.com/homework-help/questions-and-answers/density-air-depends-pressure-temperature-rho-rightarrow-rho-p-t--use-table-c1-smits-experi-q23739206)
+* [Physics Principles And Problems By A Glencoe Program](https://archive.org/details/PhysicsPrinciplesAndProblemsByAGlencoeProgram)
+* [sengpielaudio - ratio energy pressure](https://sengpielaudio.com/calculator-soundlevel.htm)
+* [Relationship between temperature and speed of sound](https://www.facebook.com/groups/536650310220214/posts/1757279244823975/)
+* [The Recording and Reproduction of Sound (Oliver Read) 1952](https://archive.org/details/The_Recording_and_Reproduction_of_Sound_Oliver_Read_1952)
+* [TRANSFORMER DESIGN PRINCIPLES](https://archive.org/details/TransformerDesignPrinciples)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
