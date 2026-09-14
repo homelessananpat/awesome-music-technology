@@ -140,6 +140,7 @@ update soon...
 * [Rate Your Music](https://rateyourmusic.com/) = rym for music nerd.
 * [Album of the year](https://www.albumoftheyear.org/)
 * [fmhy.net](https://fmhy.net/beginners-guide) = best free media site of all time.
+* [SonicField.org](https://sonicfield.org/) = an independent editorial and research platform for sound, listening, sonic arts, sound studies, and audio technologies (most details sound art tools, archives and resources ever)
 * [AMROC](https://amcoustics.com/tools/amroc) = room mode calculator they teached me this in uni.
 
 ## Github
