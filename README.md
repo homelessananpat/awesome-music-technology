@@ -161,6 +161,7 @@ update soon...
 * [Kohui festival](https://www.youtube.com/watch?v=OQLGI_wohss) = Korean audio visual fest very cool
 * [WeSa festival](https://www.youtube.com/@wesa_seoul/videos) = Korean audio visual fest very cool2
 * [Synap bkk](https://www.youtube.com/@SYNAPhomelab/streams) = Thailand audio visual fest very cool
+* [Bangkok CityCity Gallery](https://www.youtube.com/@bangkokcitycity/videos) = Thailand art fest kinda
 * [Alva Noto lecture](https://www.youtube.com/watch?v=2Y1w1dO4Iks)
 * [Autechre max msp behind the scene](https://www.youtube.com/watch?v=3poN6FDyB28) = learn how Autechre abusing Max MSP
 * [Piezo mic for noise music](https://www.youtube.com/watch?v=dezLjGYYimE) = piezo mic / tube / string / diy instruments
