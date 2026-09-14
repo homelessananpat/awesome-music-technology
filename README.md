@@ -159,6 +159,7 @@ update soon...
 * [Dan Worrall](https://www.youtube.com/@danworrall) = very accurate audio engineering information
 * [MMT Electroacoustic composition live](https://www.youtube.com/watch?v=MiaN1ZMR0s8)
 * [Kohui festival](https://www.youtube.com/watch?v=OQLGI_wohss) = Korean audio visual fest very cool
+* [WeSa festival](https://www.youtube.com/@wesa_seoul/videos) = Korean audio visual fest very cool2
 * [Alva Noto lecture](https://www.youtube.com/watch?v=2Y1w1dO4Iks)
 * [Autechre max msp behind the scene](https://www.youtube.com/watch?v=3poN6FDyB28) = learn how Autechre abusing Max MSP
 * [Piezo mic for noise music](https://www.youtube.com/watch?v=dezLjGYYimE) = piezo mic / tube / string / diy instruments
