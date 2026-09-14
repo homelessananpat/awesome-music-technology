@@ -154,6 +154,7 @@ update soon...
 ## Youtube
 * [Digital Audio Fundamentals playlist](https://www.youtube.com/watch?v=Su9_i1UOz9U&list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw) = they forced me to watch this in uni so go ahead and watch it.
 * [Plugdata tutorial playlist](https://www.youtube.com/playlist?list=PLZYD2Edyty0BfJ1RAH2heamjJGVj0TEau)
+* [SOPHIE tribute in SuperCollider](https://www.youtube.com/watch?v=gsAxCuUcy0o&t=181s) = this vid teaches me sm Supercollider waow
 * [Modular synth basic playlist](https://youtube.com/playlist?list=PLa9Em_H8Xs_al-r_90xYiuiz-3N8HZyf_&si=fBgP7dOtWBzEZXrv)
 * [ECE4450 Analog circuit for music synthesis lectures](https://www.youtube.com/playlist?list=PLOunECWxELQS5bMdWo9VhmZtsCjhjYNcV)
 * [Dan Worrall](https://www.youtube.com/@danworrall) = very accurate audio engineering information
