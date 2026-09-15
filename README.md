@@ -141,6 +141,7 @@ update soon...
 * [Album of the year](https://www.albumoftheyear.org/)
 * [fmhy.net](https://fmhy.net/beginners-guide) = best free media site of all time.
 * [SonicField.org](https://sonicfield.org/) = an independent editorial and research platform for sound, listening, sonic arts, sound studies, and audio technologies (most details sound art tools, archives and resources ever)
+* [joowonpark.net](https://joowonpark.net/teachingmaterials/) = joowonpart electronic music teaching materials.
 * [AMROC](https://amcoustics.com/tools/amroc) = room mode calculator they teached me this in uni.
 
 ## Github
@@ -150,6 +151,7 @@ update soon...
 * [Awesome Audio engineering](https://github.com/brandonhimpfen/awesome-audio-engineering)
 * [Sound art resources](https://github.com/brianhouse/sound_art)
 * [Glitch art resources by osromusic](https://github.com/osromusic/Glitch-Arts-Resources)
+* [computermusicclub github](https://github.com/ptrkmrsck/computermusicclub)
 
 ## Youtube
 * [Digital Audio Fundamentals playlist](https://www.youtube.com/watch?v=Su9_i1UOz9U&list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw) = they forced me to watch this in uni so go ahead and watch it.
@@ -247,7 +249,7 @@ update soon...
 * Switcher
 * Visual guy / Visual jockey (VJ) / projector guy = Resolume Arena, TouchDesigner
 * System Engineer
-* Broadcast Audio Engineer
+* Broadcast Audio Engineer (OB)
 * Playback Engineer
 * Recording engineer = studio
 * Tracking engineer = studio
