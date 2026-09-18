@@ -185,7 +185,8 @@ update soon...
 * [Max MSP/Jitter](https://cycling74.com/products/max) = pd but paid comes with cool external and stuff.
 * [Pure Data GEM](https://puredata.info/downloads/gem/) = use to make visual like Jitter, better be download from deken.
 * [Resolume Arena](https://resolume.com/) = industry standard for visual.
-* [VDMX](https://www.vidvox.net/) = VJ software.
+* [VDMX](https://www.vidvox.net/) = modular VJ software.
+* [MadMapper](https://madmapper.com/) = DMX / lighting control with ArtNet, visuals mapping and lasers
 * [Blender](https://www.blender.org/) = open source 3D software.
 * [Houdini](https://www.sidefx.com/products/houdini/) = paid 3D software.
 * [Rhino3D](https://www.rhino3d.com/learn/) = paid CAD software.
