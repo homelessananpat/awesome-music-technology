@@ -48,13 +48,13 @@ update soon...
 * [ Designing sound by Farnell, Andy, 1969](https://archive.org/details/designingsound0000farn/mode/2up) = the holy grail of sound design MUST READ (MIT press).
 * [Clocking, Jitter and the Digidesign 192 I/O Audio Interface](https://www.scribd.com/document/14209058/192ClockJitter-30957)
 * [Introduction to Computer Music An Electronic Textbook By Prof. Jeffrey Hass](https://cmtext.com/index.php) = stumbled across this absolute gem of computer music resources from Indiana University Bloomington. Also, check out the [Appendices](https://cmtext.com/appendices/appendix_index.php), [Indiana University Bloomington Facilities](https://cecm.music.indiana.edu/facilities/index.html) and [Texts and Resources](https://cmtext.com/appendices/appendix_A.php).
-* [Audio-vision: sound on screen by Chion, Michel, 1947](https://archive.org/details/audiovisionsound0000chio/mode/)
+* [Audio-vision: sound on screen by Chion, Michel, 1947](https://archive.org/details/audiovisionsound0000chio/mode/2up)
 * [Mastered for iTunes: Music as the Artist and Sound Engineer Intended](https://www.apple.com/tm/itunes/mastered-for-itunes/docs/mastered_for_itunes.pdf)
-* [The Sound Effects Bible by Ric Viers](https://archive.org/details/RicViersTheSoundEffectsBible/mode/)
+* [The Sound Effects Bible by Ric Viers](https://archive.org/details/RicViersTheSoundEffectsBible/mode/2up)
 * [The State of Post-Production Film Sound by John Kassab](https://www.scribd.com/document/103688332/2009-Kassab-John)
 * [Sound on Sound: Sound Design For Visual Media & Radio](https://www.soundonsound.com/techniques/sound-design-visual-media-radio)
-* [Sweet anticipation : music and the psychology of expectation](https://archive.org/details/sweetanticipatio0000huro/page/n7/mode)
-* 
+* [Sweet anticipation : music and the psychology of expectation](https://archive.org/details/sweetanticipatio0000huro/page/n7/mode/2up)
+* [The A Z Of Pro Tools Interactive E Book by Pro Tools Expert](https://archive.org/details/the-a-z-of-pro-tools-interactive-e-book/mode/2up)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
