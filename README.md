@@ -55,6 +55,7 @@ update soon...
 * [Sound on Sound: Sound Design For Visual Media & Radio](https://www.soundonsound.com/techniques/sound-design-visual-media-radio)
 * [Sweet anticipation : music and the psychology of expectation](https://archive.org/details/sweetanticipatio0000huro/page/n7/mode/2up)
 * [The A Z Of Pro Tools Interactive E Book by Pro Tools Expert](https://archive.org/details/the-a-z-of-pro-tools-interactive-e-book/mode/2up)
+* [Audio File Formats MM](https://archive.org/details/audio-file-formats-mm/mode/2up)
 * [The Art Of Electronics 3rd Ed(especially page 879-988 Digital Meets Analog Chapter 13)](https://archive.org/details/the-art-of-electronics-3rd-ed-2015_202510/page/879/mode/2up)
 * [Science Fiction: What's Wrong? The Sounds of Danger Versus Hearing Dangerously by Darrin Verhagen](https://www.academia.edu/28415343/Science_Fiction_Whats_Wrong_The_Sounds_of_Danger_Versus_Hearing_Dangerously)
 
