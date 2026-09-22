@@ -23,9 +23,9 @@ Wowzers based as always :3
 ---
 update soon...
 
-## Books
+## Books and Papers
 * [Yamaha The Sound Reinforcement Handbook (2nd ed.)](https://archive.org/details/gary-davis-gary-d.-davis-ralph-jones-yamaha-international-cor-the-sound-reinforc/mode/2up) = they teached me the whole book very essential
-* Mastering Audio: The Art and the Science by Bob Katz = addition for mastering
+* [Mastering Audio: The Art and the Science by Bob Katz](https://archive.org/details/masteringaudioar0000katz/mode/2up) = addition for mastering
 * [The theory and technique of electronic music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf)
 * [The recording engineer handbook](https://www.academia.edu/18092655/The_recording_engineer_handbook)
 * [Microsound by Curtis Roads](https://monoskop.org/images/d/d1/Roads_Curtis_Microsound.pdf)
