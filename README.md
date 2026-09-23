@@ -58,6 +58,12 @@ update soon...
 * [Audio File Formats MM](https://archive.org/details/audio-file-formats-mm/mode/2up)
 * [The Art Of Electronics 3rd Ed(especially page 879-988 Digital Meets Analog Chapter 13)](https://archive.org/details/the-art-of-electronics-3rd-ed-2015_202510/page/879/mode/2up)
 * [Science Fiction: What's Wrong? The Sounds of Danger Versus Hearing Dangerously by Darrin Verhagen](https://www.academia.edu/28415343/Science_Fiction_Whats_Wrong_The_Sounds_of_Danger_Versus_Hearing_Dangerously)
+* [Tim Hoerning's Lectures and Handouts Music and Engineering](https://www.musicandengineering.com/)
+* [OpenCourseWare - Music and Technology: Recording Techniques and Audio Production](https://ocw.mit.edu/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/pages/lecture-notes/)
+* [OpenCourseWare - Music and Technology: Algorithmic and Generative Music](https://ocw.mit.edu/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/pages/lecture-notes/)
+* [OpenCourseWare - Music and Technology (Contemporary History and Aesthetics](https://ocw.mit.edu/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/pages/lecture-notes-and-videos/lecture-notes-and-videos/)
+* [OpenLearn - Sound for music technology: An introduction](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/sound-music-technology-an-introduction?active-tab=content-tab)
+* [Coursera - Fundamentals of Audio and Music Engineering](https://www.coursera.org/learn/audio-engineering?action=enroll#modules)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
