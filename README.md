@@ -160,6 +160,7 @@ update soon...
 * [fmhy.net](https://fmhy.net/beginners-guide) = best free media site of all time.
 * [SonicField.org](https://sonicfield.org/) = an independent editorial and research platform for sound, listening, sonic arts, sound studies, and audio technologies (most details sound art tools, archives and resources ever)
 * [joowonpark.net](https://joowonpark.net/teachingmaterials/) = joowonpart electronic music teaching materials.
+* [ResearchGate.net](https://www.researchgate.net/search/publication?q=audio+engineering) = site to find research papers.
 * [AMROC](https://amcoustics.com/tools/amroc) = room mode calculator they teached me this in uni.
 
 ## Github
