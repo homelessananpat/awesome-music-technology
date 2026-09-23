@@ -64,6 +64,8 @@ update soon...
 * [OpenCourseWare - Music and Technology (Contemporary History and Aesthetics](https://ocw.mit.edu/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/pages/lecture-notes-and-videos/lecture-notes-and-videos/)
 * [OpenLearn - Sound for music technology: An introduction](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/sound-music-technology-an-introduction?active-tab=content-tab)
 * [Coursera - Fundamentals of Audio and Music Engineering](https://www.coursera.org/learn/audio-engineering?action=enroll#modules)
+* [How to Dither by Bob Katz](https://www.digido.com/portfolio-item/dither/) = also great resources [here](https://www.digido.com/links/)
+* [What is dither? by Nigel Redmon](https://www.earlevel.com/main/1996/10/20/what-is-dither/) = also even better digital audio blog [here(EarLevelEngineering.com)](https://www.earlevel.com/main/category/digital-audio/)
 
 ## Websites
 * [Prof.JOS CCRMA Stanford website](https://ccrma.stanford.edu/~jos/) = Julius Orion Smith III Professor Emeritus Music and by courtesy Electrical Engineering very details audio signal processing theory/ math every essential if wanna study doctoral level computer music.
