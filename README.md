@@ -186,6 +186,7 @@ update soon...
 * [Bangkok CityCity Gallery](https://www.youtube.com/@bangkokcitycity/videos) = Thailand art fest kinda
 * [Alva Noto lecture](https://www.youtube.com/watch?v=2Y1w1dO4Iks)
 * [Autechre max msp behind the scene](https://www.youtube.com/watch?v=3poN6FDyB28) = learn how Autechre abusing Max MSP
+* [Hybrid live coding opening set for Autechre](https://youtu.be/4TjCXgpA03E?si=ipd-Fb7kYxP11hx_) = tools n setup for Autechre
 * [Piezo mic for noise music](https://www.youtube.com/watch?v=dezLjGYYimE) = piezo mic / tube / string / diy instruments
 * [Circuit bending basics](https://www.youtube.com/watch?v=aEG3M_9XU3E&t=120s)
 * [Nicolas Bras diy tube instuments guy](https://www.youtube.com/@nicolasbras)
@@ -253,6 +254,10 @@ update soon...
 * [kyma](https://kyma.symbolicsound.com/pacamara-apu/) = sound design tools.
 * [BBC Symphony Orchestra](https://www.spitfireaudio.com/collections/bbc-symphony-orchestra) = free orchestra plugin.
 * [Beam for live](https://www.showsync.com/beam-for-live#buy) = ableton control DMX
+* [Facet](https://codeberg.org/nnirror/facet) = Live coding and synthesis with Node.js and a browser can be use with Wax.
+* [Wax](https://github.com/nnirror/wax) = web based audio patching environment.
+* [Automatonism](https://www.automatonism.com/the-software) = pure data modular synth.
+* [PhotoSounder](https://photosounder.com/) = spectral photo to audio.
 
 ## Topics/Keywords to learn more/Research
 * Electroacoustic music
