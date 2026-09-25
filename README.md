@@ -130,6 +130,7 @@ update soon...
 * [FreeSound.org](https://freesound.org/) = free sound for sound effects.
 * [Pixabay.com](https://pixabay.com/sound-effects/) = free sound effects.
 * [Internet Archive](https://archive.org/) = non-profit library of millions of free texts, movies, software, music, websites, and more.
+* [DeStockd.com](https://destockd.com/) = free public domain videos, images, books and more.
 * [Radio.garden](https://radio.garden/visit/bangkok) = radio around the globe.
 * [antonproducer](https://antonproducer.com/free-tools/) = free tools.
 * [schmitzbits.de](https://www.schmitzbits.de/index.html) = DIY synth.
