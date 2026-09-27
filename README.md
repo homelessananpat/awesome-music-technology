@@ -21,7 +21,7 @@ hav fun learning music technology!!!
 Wowzers based as always :3
 
 ---
-update soon...
+more updates to follow...
 
 ## Books and Papers
 * [Yamaha The Sound Reinforcement Handbook (2nd ed.)](https://archive.org/details/gary-davis-gary-d.-davis-ralph-jones-yamaha-international-cor-the-sound-reinforc/mode/2up) = they teached me the whole book very essential
