@@ -206,6 +206,8 @@ update soon...
 * [GrundTon](https://www.youtube.com/@grundtongrundton/videos) = pure data vids
 * [Lantertronics](https://www.youtube.com/@Lantertronics/videos) = behind audio circuits.
 * [TildeSounds](https://www.youtube.com/@TildeSounds/videos) = music production techniques.
+* [Moritz Klein](https://www.youtube.com/@MoritzKlein0/playlists) = DIY modular synth.
+* [JoeCS](https://www.youtube.com/@JoeCS/videos) = Ableton generative cheat code.
 
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
