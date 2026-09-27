@@ -52,6 +52,7 @@ update soon...
 * [ Designing sound by Farnell, Andy, 1969](https://archive.org/details/designingsound0000farn/mode/2up) = the holy grail of sound design MUST READ (MIT press).
 * [Clocking, Jitter and the Digidesign 192 I/O Audio Interface](https://www.scribd.com/document/14209058/192ClockJitter-30957)
 * [Introduction to Computer Music An Electronic Textbook By Prof. Jeffrey Hass](https://cmtext.com/index.php) = stumbled across this absolute gem of computer music resources from Indiana University Bloomington. Also, check out the [Appendices](https://cmtext.com/appendices/appendix_index.php), [Indiana University Bloomington Facilities](https://cecm.music.indiana.edu/facilities/index.html) and [Texts and Resources](https://cmtext.com/appendices/appendix_A.php).
+* [Institute of Electronic Music and Acoustics (IEM) research](https://iem.kug.ac.at/en/research/overview/information)
 * [Introduction to computer music by Nick Collins](https://archive.org/details/introductiontoco0000coll/mode/2up)
 * [Audio-vision: sound on screen by Chion, Michel, 1947](https://archive.org/details/audiovisionsound0000chio/mode/2up)
 * [Mastered for iTunes: Music as the Artist and Sound Engineer Intended](https://www.apple.com/tm/itunes/mastered-for-itunes/docs/mastered_for_itunes.pdf)
