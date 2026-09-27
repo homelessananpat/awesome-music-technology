@@ -208,6 +208,9 @@ update soon...
 * [TildeSounds](https://www.youtube.com/@TildeSounds/videos) = music production techniques.
 * [Moritz Klein](https://www.youtube.com/@MoritzKlein0/playlists) = DIY modular synth.
 * [JoeCS](https://www.youtube.com/@JoeCS/videos) = Ableton generative cheat code.
+* [Nathan SFX](https://www.youtube.com/@Nathan_SFX/videos) = Valorant sound designer.
+* [Dietrich Dice Sound](https://www.youtube.com/@DietrichDiceSound/videos) = anime sound design guy.
+* [Bahadırhan Koçer](https://www.youtube.com/@bahadirhankocer/videos) = cinematic musicologist guy.
 
 ## Software
 * [Pure Data](https://puredata.info/) = MUST LEARN visual programming language for multimedia it taught me music tech from the ground up. The best way to pure data for me is from else external "live electronics tutorial" [here](https://github.com/porres/Live-Electronics-Tutorial) or you can just browse in "list of objects", "pd help aka manual", "browser > externals/" in the [pd vanilla](https://puredata.info/downloads/pure-data) help menu. just right click and open help menu lol.
