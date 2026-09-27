@@ -27,8 +27,12 @@ update soon...
 * [Yamaha The Sound Reinforcement Handbook (2nd ed.)](https://archive.org/details/gary-davis-gary-d.-davis-ralph-jones-yamaha-international-cor-the-sound-reinforc/mode/2up) = they teached me the whole book very essential
 * [Mastering Audio: The Art and the Science by Bob Katz](https://archive.org/details/masteringaudioar0000katz/mode/2up) = addition for mastering
 * [The theory and technique of electronic music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf)
+* [puredata.info/docs](https://puredata.info/docs)
 * [The recording engineer handbook](https://www.academia.edu/18092655/The_recording_engineer_handbook)
 * [Microsound by Curtis Roads](https://monoskop.org/images/d/d1/Roads_Curtis_Microsound.pdf)
+* [The Computer Music Tutorial by Curtis Roads](https://archive.org/details/cmt_20230219/mode/2up)
+* [Composing interactive music : techniques and ideas using Max by Todd Winkler](https://archive.org/details/composinginterac0000wink/page/n5/mode/2up)
+* [Algorithmic Composition Paradigms of Automated Music Generation by Gerhard Nierhaus](https://www.academia.edu/111075759/Algorithmic_Composition)
 * [How to make noise](https://digitalmusicacademy.ru/sites/default/files/content/How_to_%20Make_a_Noise_0.pdf)
 * [A Gentle Introduction To SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 * [Modern recording techniques by Huber, David Miles](https://archive.org/details/modernrecordingt0000hube)
@@ -48,6 +52,7 @@ update soon...
 * [ Designing sound by Farnell, Andy, 1969](https://archive.org/details/designingsound0000farn/mode/2up) = the holy grail of sound design MUST READ (MIT press).
 * [Clocking, Jitter and the Digidesign 192 I/O Audio Interface](https://www.scribd.com/document/14209058/192ClockJitter-30957)
 * [Introduction to Computer Music An Electronic Textbook By Prof. Jeffrey Hass](https://cmtext.com/index.php) = stumbled across this absolute gem of computer music resources from Indiana University Bloomington. Also, check out the [Appendices](https://cmtext.com/appendices/appendix_index.php), [Indiana University Bloomington Facilities](https://cecm.music.indiana.edu/facilities/index.html) and [Texts and Resources](https://cmtext.com/appendices/appendix_A.php).
+* [Introduction to computer music by Nick Collins](https://archive.org/details/introductiontoco0000coll/mode/2up)
 * [Audio-vision: sound on screen by Chion, Michel, 1947](https://archive.org/details/audiovisionsound0000chio/mode/2up)
 * [Mastered for iTunes: Music as the Artist and Sound Engineer Intended](https://www.apple.com/tm/itunes/mastered-for-itunes/docs/mastered_for_itunes.pdf)
 * [The Sound Effects Bible by Ric Viers](https://archive.org/details/RicViersTheSoundEffectsBible/mode/2up)
