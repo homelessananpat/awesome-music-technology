@@ -168,6 +168,7 @@ more updates to come...
 * [SonicField.org](https://sonicfield.org/) = an independent editorial and research platform for sound, listening, sonic arts, sound studies, and audio technologies (most details sound art tools, archives and resources ever)
 * [joowonpark.net](https://joowonpark.net/teachingmaterials/) = joowonpart electronic music teaching materials.
 * [ResearchGate.net](https://www.researchgate.net/search/publication?q=audio+engineering) = site to find research papers.
+* [CDM.link(create digital music)](https://cdm.link/) = music tech news and inspirations
 * [AMROC](https://amcoustics.com/tools/amroc) = room mode calculator they teached me this in uni.
 
 ## Github
