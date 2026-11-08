@@ -78,6 +78,7 @@ more updates to come...
 * [Miller Puckette website](https://msp.ucsd.edu/) = Pure data creator
 * [Center for Computer Research in Music and Acoustics (CCRMA)](https://ccrma.stanford.edu/home) = CCRMA Stanford edu
 * [dmpdoc neocities](https://dmpdoc.neocities.org/) = Resources for learning electronic music production.
+* [The Audio Stuff tools](https://theaudiostuff.com/tools/) = free browser calculators and test tools for learning audio engineering hands-on: room modes, acoustic panel absorption, speaker cable loss, headphone power, a tone generator, an ABX blind test and EQ ear training.
 * [lainchan hacking general archive neocities](https://lainhackinggeneral4.neocities.org/)
 * [eldritchdata neocities](https://eldritchdata.neocities.org/) = schizo linux pure html.
 * [Monoskop](https://monoskop.org/Computer_music) = a wiki for arts and studies.
