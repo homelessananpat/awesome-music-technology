@@ -172,6 +172,7 @@ more updates to come...
 * [Are.na](https://www.are.na/share/hamupAy) = minimal "floatware" platform for sharing resources.
 * [objkt](https://objkt.com/) = digital art auction here, sell your art here!
 * [AMROC](https://amcoustics.com/tools/amroc) = room mode calculator they teached me this in uni.
+* [No Stairs Please](https://nostairsplease.com/) = directory of small live-music venues across all 50 US states, DC, and BC, with booking contacts and a remote [MCP server](https://nostairsplease.com/mcp).
 
 ## Github
 * [Awesome music programming](https://github.com/zoejane/awesome-music-programming)
